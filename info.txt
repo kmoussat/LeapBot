@@ -1,0 +1,3 @@
+/etc/sudoers
+
+www-data ALL=(ALL) NOPASSWD:ALL
